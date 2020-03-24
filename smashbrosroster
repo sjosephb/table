@@ -52,21 +52,51 @@ h2 {
   </tr>
   <tr>
     <td>Link img src="link.png" alt="Link"</td>
+    <td>Human</td>
+    <td>Male</td>
+    <td>Swordfighter</td>
+    <td>B</td>
+    <td>The Legend of Zelda (1986)</td>
   </tr>
   <tr>
     <td>Kirby img src="kirby.png" alt="Kirby"</td>
+    <td>Unknown</td>
+    <td>Male</td>
+    <td>Brawler</td>
+    <td>E</td>
+    <td>Kirby's Dream Land (1991)</td>
   </tr>
   <tr>
     <td>Yoshi img src="yoshi.png" alt="Yoshi"</td>
+    <td>Animal</td>
+    <td>Male</td>
+    <td>Brawler</td>
+    <td>E</td>
+    <td>Super Mario World (1991)</td>
   </tr>
   <tr>
     <td>Samus img src="samus.png" alt="Samus Aran"</td>
+    <td>Human</td>
+    <td>Male</td>
+    <td>Gunner</td>
+    <td>C</td>
+    <td>Metroid (1986)</td>
   </tr>
   <tr>
     <td>Fox img src="fox.png" alt="Fox McCloud"</td>
+    <td>Animal</td>
+    <td>Male</td>
+    <td>Gunner</td>
+    <td>S</td>
+    <td>Star Fox (1993)</td>
   </tr>
   <tr>
     <td>Pikachu img src="pikachu.png" alt="Pikachu"</td>
+    <td>Unknown/Animal</td>
+    <td>Not Specified</td>
+    <td>Brawler</td>
+    <td>S</td>
+    <td>Pokemon Red/Blue (1996)</td>
   </tr>
 </table>
   
