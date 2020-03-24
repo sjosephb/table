@@ -5,10 +5,10 @@
 <title>Super Smash Bros. Ultimate Roster (Veterans)</title>
 <style>
 body {
-  background-image:url(smash.jpg);
+  background-color: #D8D8D8;
 }
 table, th, td {
-  border: 1px solid-white;
+  border: 1px solid-black;
   text-align: center;
 }
 /style>
