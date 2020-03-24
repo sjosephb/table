@@ -9,19 +9,67 @@ body {
   margin: 0 15%;
   font-family: sans-serif;
   }
-h1 {
+h2 {
   text-align: center;
   font-family: serif;
   font-weight: normal;
   text-transformation: uppercase;
   margin-top: 30px;
-}
-h2 {
-   color: #FFFFFF;
-   font-size; 1em;
+  color: #FFFFFF;
+  font-size; 1em;
 }
 /style>
 
 </head>
 
 <body>
+<h2>Super Smash Bros. Ultimate Roster (The 8 Veterans)</h2>
+
+<table>
+  <tr>
+    <th>Fighter</th>
+    <th>Species</th>
+    <th>Gender</th>
+    <th>Type of Fighter</th>
+    <th>Tier Rank</th>
+    <th>First Appearance</th>
+  </tr>
+  <tr>
+    <td>Mario img src="mario.png" alt="Mario"</td>
+    <td>Human</td>
+    <td>Male</td>
+    <td>Brawler</td>
+    <td>B</td>
+    <td>Donkey Kong (1981)</td>
+  </tr>
+  <tr>
+    <td>Donkey Kong img src="dk.png" alt="Donkey Kong"</td>
+    <td>Animal</td>
+    <td>Male</td>
+    <td>Brawler</td>
+    <td>C</td>
+    <td>Donkey Kong (1981)</td>
+  </tr>
+  <tr>
+    <td>Link img src="link.png" alt="Link"</td>
+  </tr>
+  <tr>
+    <td>Kirby img src="kirby.png" alt="Kirby"</td>
+  </tr>
+  <tr>
+    <td>Yoshi img src="yoshi.png" alt="Yoshi"</td>
+  </tr>
+  <tr>
+    <td>Samus img src="samus.png" alt="Samus Aran"</td>
+  </tr>
+  <tr>
+    <td>Fox img src="fox.png" alt="Fox McCloud"</td>
+  </tr>
+  <tr>
+    <td>Pikachu img src="pikachu.png" alt="Pikachu"</td>
+  </tr>
+</table>
+  
+</body>
+  
+</html>
