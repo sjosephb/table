@@ -20,7 +20,7 @@ table, th, td {
 <body>
 <table style="width:100%">
   <tr>
-    <th rowspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
+    <th colspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
   </tr>
   <tr>
     <td>Fighter</td>
@@ -31,7 +31,8 @@ table, th, td {
     <td>First Appearance</td>
   </tr>
   <tr>
-    <td>Mario <img src="mario.png" alt="Mario"></td>
+    <td>Mario <br>
+    <img src="mario.png" alt="Mario"></td>
     <td>Human</td>
     <td>Male</td>
     <td>Brawler</td>
@@ -39,7 +40,8 @@ table, th, td {
     <td>Donkey Kong (1981)</td>
   </tr>
   <tr>
-    <td>Donkey Kong <img src="dk.png" alt="Donkey Kong"></td>
+    <td>Donkey Kong <br>
+    <img src="dk.png" alt="Donkey Kong"></td>
     <td>Animal</td>
     <td>Male</td>
     <td>Brawler</td>
@@ -47,7 +49,8 @@ table, th, td {
     <td>Donkey Kong (1981)</td>
   </tr>
   <tr>
-    <td>Link <img src="link.png" alt="Link"></td>
+    <td>Link <br>
+    <img src="link.png" alt="Link"></td>
     <td>Human</td>
     <td>Male</td>
     <td>Swordfighter</td>
@@ -55,7 +58,8 @@ table, th, td {
     <td>The Legend of Zelda (1986)</td>
   </tr>
   <tr>
-    <td>Kirby <img src="kirby.png" alt="Kirby"></td>
+    <td>Kirby <br>
+    <img src="kirby.png" alt="Kirby"></td>
     <td>Unknown</td>
     <td>Male</td>
     <td>Brawler</td>
@@ -63,7 +67,8 @@ table, th, td {
     <td>Kirby's Dream Land (1991)</td>
   </tr>
   <tr>
-    <td>Yoshi <img src="yoshi.png" alt="Yoshi"></td>
+    <td>Yoshi <br>
+    <img src="yoshi.png" alt="Yoshi"></td>
     <td>Animal</td>
     <td>Male</td>
     <td>Brawler</td>
@@ -71,7 +76,8 @@ table, th, td {
     <td>Super Mario World (1991)</td>
   </tr>
   <tr>
-    <td>Samus <img src="samus.png" alt="Samus Aran"></td>
+    <td>Samus <br>
+    <img src="samus.png" alt="Samus Aran"></td>
     <td>Human</td>
     <td>Male</td>
     <td>Gunner</td>
@@ -79,7 +85,8 @@ table, th, td {
     <td>Metroid (1986)</td>
   </tr>
   <tr>
-    <td>Fox <img src="fox.png" alt="Fox McCloud"></td>
+    <td>Fox <br>
+    <img src="fox.png" alt="Fox McCloud"></td>
     <td>Animal</td>
     <td>Male</td>
     <td>Gunner</td>
@@ -87,7 +94,8 @@ table, th, td {
     <td>Star Fox (1993)</td>
   </tr>
   <tr>
-    <td>Pikachu <img src="pikachu.png" alt="Pikachu"></td>
+    <td>Pikachu <br>
+    <img src="pikachu.png" alt="Pikachu"></td>
     <td>Unknown/Animal</td>
     <td>Not Specified</td>
     <td>Brawler</td>
