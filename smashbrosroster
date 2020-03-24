@@ -9,7 +9,7 @@ body {
   margin: 0 15%;
   font-family: sans-serif;
   }
-h2 {
+table {
   text-align: center;
   font-family: serif;
   font-weight: normal;
