@@ -1,25 +1,24 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-<title>Super Smash Bros. Ultimate Roster (Veterans)</title>
+<title>Super Smash Bros. Ultimate Veteran Roster</title>
 <style>
 body {
-  background-color: #D8D8D8;
+	background-color: #D8D8D8;
 }
 table, th, td {
-  border: 1px solid-black;
+  border: 1px solid black;
   text-align: center;
 }
-/style>
+</style>
 </head>
 <body>
 
 <table style="width:100%">
-  <tr>
-    <th colspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
-  </tr>
-  <tr>
+	<tr>
+		<th colspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
+  	</tr>
+  	<tr>
     <th>Fighter</th>
     <th>Species</th>
     <th>Gender</th>
@@ -91,7 +90,7 @@ table, th, td {
     <td>Star Fox (1993)</td>
   </tr>
   <tr>
-    <td>Pikachu <br>
+    <td>Pikachu<br> 
     <img src="pikachu.png" alt="Pikachu"></td>
     <td>Unknown/Animal</td>
     <td>Not Specified</td>
