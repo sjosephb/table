@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Super Smash Bros. Ultimate Veteran Roster</title>
 <style>
 body {
 	background-color: #D8D8D8;
@@ -15,10 +14,10 @@ table, th, td {
 <body>
 
 <table style="width:100%">
-	<tr>
-		<th colspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
-  	</tr>
-  	<tr>
+  <tr>
+  <th colspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
+  </tr>
+  <tr>
     <th>Fighter</th>
     <th>Species</th>
     <th>Gender</th>
