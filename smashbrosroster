@@ -24,9 +24,9 @@ table, th, td {
 </head>
 
 <body>
-<table>
+<table style="width:100%">
   <tr>
-    <th colspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
+    <th rowspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
   </tr>
   <tr>
     <td>Fighter</td>
