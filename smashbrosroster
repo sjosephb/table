@@ -27,7 +27,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Mario <br>
-    <img src="mario.png" alt="Mario" width:40px, height:60px></td>
+    <img src="mario.png" alt="Mario" "width:40px, height:60px"></td>
     <td>Human</td>
     <td>Male</td>
     <td>Brawler</td>
@@ -36,7 +36,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Donkey Kong <br>
-    <img src="dk.png" alt="Donkey Kong" width:40px, height:60px></td>
+    <img src="dk.png" alt="Donkey Kong" "width:40px, height:60px"></td>
     <td>Animal</td>
     <td>Male</td>
     <td>Brawler</td>
@@ -45,7 +45,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Link <br>
-    <img src="link.png" alt="Link" width:40px, height:60px></td>
+    <img src="link.png" alt="Link" "width:40px, height:60px"></td>
     <td>Human</td>
     <td>Male</td>
     <td>Swordfighter</td>
@@ -54,7 +54,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Kirby <br>
-    <img src="kirby.png" alt="Kirby" width:40px, height:60px></td>
+    <img src="kirby.png" alt="Kirby" "width:40px, height:60px"></td>
     <td>Unknown</td>
     <td>Male</td>
     <td>Brawler</td>
@@ -63,7 +63,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Yoshi <br>
-    <img src="yoshi.png" alt="Yoshi" width:40px, height:60px></td>
+    <img src="yoshi.png" alt="Yoshi" "width:40px, height:60px"></td>
     <td>Animal</td>
     <td>Male</td>
     <td>Brawler</td>
@@ -72,7 +72,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Samus <br>
-    <img src="samus.png" alt="Samus Aran" width:40px, height:60px></td>
+    <img src="samus.png" alt="Samus Aran" "width:40px, height:60px"></td>
     <td>Human</td>
     <td>Male</td>
     <td>Gunner</td>
@@ -81,7 +81,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Fox <br>
-    <img src="fox.png" alt="Fox McCloud" width:40px, height:60px></td>
+    <img src="fox.png" alt="Fox McCloud" "width:40px, height:60px"></td>
     <td>Animal</td>
     <td>Male</td>
     <td>Gunner</td>
@@ -90,7 +90,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Pikachu<br> 
-    <img src="pikachu.png" alt="Pikachu" width:40px, height:60px></td>
+    <img src="pikachu.png" alt="Pikachu" "width:40px, height:60px"></td>
     <td>Unknown/Animal</td>
     <td>Not Specified</td>
     <td>Brawler</td>
