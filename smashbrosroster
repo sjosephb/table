@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Super Smash Bros. Ultimate Roster (Veterans)</title>
+<style>
+body {
+  background-image:url(smash.jpg);
+  margin: 0 15%;
+  font-family: sans-serif;
+  }
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transformation: uppercase;
+  margin-top: 30px;
+}
+h2 {
+   color: #FFFFFF;
+   font-size; 1em;
+}
+/style>
+
+</head>
+
+<body>
