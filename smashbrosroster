@@ -12,6 +12,7 @@ body {
 table, th, td {
   border: 1px #FFFFFF;
   text-align: center;
+  font color: #FFFFFF
 }
 /style>
 
@@ -23,12 +24,12 @@ table, th, td {
     <th colspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
   </tr>
   <tr>
-    <td>Fighter</td>
-    <td>Species</td>
-    <td>Gender</td>
-    <td>Type of Fighter</td>
-    <td>Tier Rank</td>
-    <td>First Appearance</td>
+    <th>Fighter</th>
+    <th>Species</th>
+    <th>Gender</th>
+    <th>Type of Fighter</th>
+    <th>Tier Rank</th>
+    <th>First Appearance</th>
   </tr>
   <tr>
     <td>Mario <br>
