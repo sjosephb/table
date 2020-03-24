@@ -20,18 +20,20 @@ h2 {
 }
 /style>
 
-<h2>Super Smash Bros. Ultimate Roster (The 8 Veterans)</h2>
 </head>
 
 <body>
 <table>
   <tr>
-    <th>Fighter</th>
-    <th>Species</th>
-    <th>Gender</th>
-    <th>Type of Fighter</th>
-    <th>Tier Rank</th>
-    <th>First Appearance</th>
+    <th>Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
+  </tr>
+  <tr>
+    <td>Fighter</td>
+    <td>Species</td>
+    <td>Gender</td>
+    <td>Type of Fighter</td>
+    <td>Tier Rank</td>
+    <td>First Appearance</td>
   </tr>
   <tr>
     <td>Mario img src="mario.png" alt="Mario"</td>
