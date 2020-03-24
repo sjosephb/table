@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-	background-color: #D8D8D8;
+  background-color: #D8D8D8;
 }
 table, th, td {
   border: 1px solid black;
@@ -13,7 +13,7 @@ table, th, td {
 </head>
 <body>
 
-<table style="width:50%, height:50%">
+<table style="width:50%">
   <tr>
   <th colspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
   </tr>
@@ -27,7 +27,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Mario <br>
-    <img src="mario.png" alt="Mario"></td>
+    <img src="mario.png" alt="Mario" "width:100px, height:100px"></td>
     <td>Human</td>
     <td>Male</td>
     <td>Brawler</td>
