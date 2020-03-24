@@ -12,7 +12,7 @@ body {
 table, th, td {
   border: 1px #FFFFFF;
   text-align: center;
-  font color: #FFFFFF
+  font color: #FFFFFF;
 }
 /style>
 
