@@ -9,13 +9,14 @@ body {
   margin: 0 15%;
   font-family: sans-serif;
   }
-table {
+table, th, td {
+  border: 1px #FFFFFF;
   text-align: center;
   font-family: serif;
   font-weight: normal;
   text-transformation: uppercase;
   margin-top: 30px;
-  color: #FFFFFF;
+  font-color: #FFFFFF;
   font-size; 1em;
 }
 /style>
@@ -25,7 +26,7 @@ table {
 <body>
 <table>
   <tr>
-    <th>Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
+    <th colspan="6">Super Smash Bros. Ultimate Roster (The Original 8 Veterans)</th>
   </tr>
   <tr>
     <td>Fighter</td>
